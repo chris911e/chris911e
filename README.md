@@ -1,9 +1,7 @@
 - 👋 Hi, I am Chris
 - 👀 I’m interested in coding
-- 💓 I like cats
-- 🌱 I’m currently learning how to code
-- 📫 You can reach me on discord, my tag: piffels#7208
-- 🔨 Current Project: photo gallery
+- 💓 I like anime
+- 📫 You can reach me on discord, my tag: piffels
 - 
 <!---
 chris911e/chris911e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
