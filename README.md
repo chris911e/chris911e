@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chris</h1>
-<h3 align="center">Computer Science student @ ZHAW · Infrastructure, Reliability & Networking</h3>
+<h3 align="center">Computer Science student · Teaching Assitant · Working Student</h3>
 
 <p align="center">
   Interested in <b>SRE, platform engineering, Linux networking (eBPF/XDP)</b> and <b>infrastructure for AI workloads</b>
