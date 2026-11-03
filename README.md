@@ -10,7 +10,7 @@
 ### Currently working on
 
 - **Home Lab & GitOps**: continuously improving my home lab: Kubernetes, everything declared in Git and deployed automatically
-- **Ronda**: a network intrusion detection project.
+- **Ronda**: a network intrusion detection project. (more details soon)
 
 ---
 
