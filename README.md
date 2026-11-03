@@ -10,7 +10,7 @@
 ### Currently working on
 
 - **Home Lab & GitOps**: continuously improving my home lab: Kubernetes, everything declared in Git and deployed automatically
-- **Sentinel**: a network monitoring & detection project: packet capture and protocol parsing in C, detection of suspicious traffic, metrics in Prometheus/Grafana, operated like a production service
+- **Ronda**: a network intrusion detection project.
 
 ---
 
